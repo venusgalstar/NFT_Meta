@@ -1,0 +1,13 @@
+{
+    
+    "name": "#Collection",
+    "description": "CAN NFT is booster",
+    "image": "https://raw.githubusercontent.com/venusgalstar/NFT_META/master/CAN_NFT_COLLECTION.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Eren"
+      }      
+    ]
+  }
